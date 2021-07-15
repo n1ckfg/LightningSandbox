@@ -1,0 +1,13 @@
+{
+    "name": "LightningArtist",
+    "version": "0.0.1",
+    "dependencies": {
+        "dotenv": "^8.0.0",
+        "express": "4.10.2",
+        "socket.io": "1.2.0"
+    },
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    }
+}
